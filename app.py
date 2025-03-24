@@ -40,10 +40,6 @@ def display_tracks(tracks):
         else:
             st.write("❗ Preview not available.")
 
-if st.button('Generate Playlist'):
-    user_id = sp.me()['id']
-    playlist_url = create_playlist_and_add_tracks(user_id, mood)
-    st.success(f'Playlist created! [Click here to view it on Spotify]({playlist_url})')
 
 if st.button('Generate Playlist'):
     user_id = sp.me()['id']
