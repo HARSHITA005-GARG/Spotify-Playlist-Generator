@@ -82,9 +82,9 @@ spotipy==2.25.1
 stack-data==0.6.3
 streamlit==1.43.2
 tenacity==9.0.0
-tensorboard==2.18.0
+tensorboard==2.19.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
+tensorflow==2.19.0
 tensorflow_intel==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
