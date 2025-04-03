@@ -12,14 +12,6 @@ Effortlessly generate personalized Spotify playlists based on your mood using th
 - **User-Friendly Interface**: Built with Streamlit for an interactive experience.  
 
 ---
-
-## 🌐 **Live Demo**  
-
-- **Render Deployment**: [View on Render](https://your-render-link-here.com)  
-- **Streamlit Deployment**: [View on Streamlit](https://your-streamlit-link-here.com)  
-
----
-
 ## 🛠 **Tech Stack**  
 
 - **Python**  
